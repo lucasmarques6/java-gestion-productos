@@ -1,0 +1,31 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de compilación
+bin/
+build/
+target/
+out/
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*~
